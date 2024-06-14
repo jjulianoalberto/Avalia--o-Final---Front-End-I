@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.page{
+    width: 100vw;
+    height: 100vh;
+}
+
+.sidebar{
+    float: left;
+    width: 30%;
+    height: 100%;
+    background-color: rgba(52, 88, 52, 0.788);  
+    text-align: center;
+}
+
+.Foto{
+  border: 3px solid black;
+  border-radius: 50%;
+  height: 15vw;
+  width: 15vw;
+  position: relative;
+  top: 25vh;
+  
+}
+.Acessorapido{    
+    list-style-type: none;
+    position: relative;
+    top: 35vh;      
+}
+a{
+    text-decoration: none;
+}
+.article{
+    float: right;
+    width: 70%;
+    height: 100%;
+    background-color: aquamarine;
+    text-align: center;
+ }
+ .Alinhamento{
+    position: relative;
+    top: 25vh;
+ }
+ .Alinhamento2{
+    position: relative;
+    top: 25vh;
+    text-align: left;
+    margin-left: 5%;
+ }
+ ol{
+    text-align: left;
+    margin-left: 2%; 
+ }
+ .lista{
+    text-align: left;
+    margin-left: 2%; 
+ }
+ h1{
+    font-size: 6vw;
+ }
+ .cor-titulo{
+    color: rgba(52, 88, 52, 0.788)
+ }
+ .linksID{
+    text-align: center;
+    position: relative;
+    top: 35vh;
+    
+ }
